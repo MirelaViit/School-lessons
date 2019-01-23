@@ -1,6 +1,28 @@
 /* comment in css */
 
-.me { width: 10%;
-height: 10%; }
+.me {
+  width: 30%;
+  height: 30%;
+}
+
 /* ===body==== */
 /* ====footer=== */
+.head-wrapper {
+  display: inline-flex;
+  width: 100%;
+}
+
+.head-wrapper div {
+  width: 33%;
+  height: 200px;
+  border: 2px solid red;
+}
+
+.header-nav li {
+  display: inline-block;
+  margin-right: 15%;
+  list-style: none;
+}
+.header-nav li a {
+  text-decoration: none;
+}
