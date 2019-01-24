@@ -27,3 +27,15 @@
 .header-nav li a {
   text-decoration: none;
 }
+
+table {
+  width: 80%;
+  margin: auto;
+}
+
+table,
+td,
+th {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
