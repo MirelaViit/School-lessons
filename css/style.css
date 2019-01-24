@@ -10,6 +10,7 @@
 .head-wrapper {
   display: inline-flex;
   width: 100%;
+  justify-content: space-between;
 }
 
 .head-wrapper div {
